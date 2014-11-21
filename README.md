@@ -2,4 +2,4 @@
 
 A presentation given to the San Antonio Web Developers Meetup on 20 November 2014.
 
-You can view the presentation at: https://github.com/44DoorsInc/captix-events/pull/854
+You can view the presentation at: http://jdfreeman.github.io/leaning-towards-domain-driven-design-presentation  
